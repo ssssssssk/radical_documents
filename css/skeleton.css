@@ -367,7 +367,6 @@ form {
     box-sizing: border-box; }
 .u-max-full-width2 {
     max-width: 100%;
-    box-sizing: border-box;
     }
 .u-pull-right {
   float: right; }
@@ -395,6 +394,13 @@ hr {
   display: table;
   clear: both; }
 
+/*Logo Class */
+
+#logo {width: 100%;
+}
+
+
+
 
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -407,8 +413,8 @@ there.
 
 
 /* Larger than mobile */
-@media (min-width: 400px) {
-u-max-full-width2 {width:50%; box-sizing: border-box;
+@media (max-width: 549px) {
+#logo {width:33%;}
 }
 
 /* Larger than phablet (also point when grid becomes active) */
