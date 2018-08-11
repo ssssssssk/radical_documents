@@ -1,6 +1,6 @@
 ---
 artist_name: "Dean Spunt"
-title: "E E Head"
+title: "EE Head"
 catalogue_no: "RDLP06"
 pic: "RDLP06.jpg"
 paypal_link: "DYNRBZQB2R9QW"
