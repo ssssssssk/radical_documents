@@ -1,7 +1,7 @@
 ---
 artist_name: LEAD
 title: LEAD
-catalogue_no: RDLP01
+catalogue_no: "RD001"
 pic: "LEAD_FRONT_high.jpg"
 paypal_link: "RMUSNHZYMPF4E"
 ---

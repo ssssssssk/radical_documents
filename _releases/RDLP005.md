@@ -1,7 +1,7 @@
 ---
 artist_name: "Eve Fowler"
 title: "Words Doing As They Want To Do"
-catalogue_no: RDLP05
+catalogue_no: RD005
 pic: "RDLP05.jpg"
 paypal_link: "HT2XKGGLPN4FJ"
 ---

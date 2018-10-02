@@ -1,7 +1,7 @@
 ---
 artist_name: Fritz Welch
 title: "a desire to push forward without gaining access to anything"
-catalogue_no: RDLP07
+catalogue_no: RD007
 pic: "RDLP07.jpeg"
 paypal_link: "XYPV7LCBSCJB4"
 ---

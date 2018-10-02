@@ -58,12 +58,23 @@
 	    <img src="images/{{item.pic}}" class="u-max-full-width">
 	</div>
 	<div class="eight columns">
-	    <b>{{item.artist_name}}</b> - <i>{{item.title}}</i> {{item.catalogue_no}}<br>
+	  <b>{{item.artist_name}}</b> - <i>{{item.title}}</i> {{item.catalogue_no}} 
+	  {% if item.paypal_link == "SOLD_OUT" %}
+	  <b>SOLD OUT!!</b><br>
+	  {% else %}
+	  
+	  {% endif %}
+	  
 	    {{item.content}}
 	    {% if item.paypal_link == empty %}
-
-	    Coming Soon!
-	  
+	    <em><b>COMING SOON!</b></em>
+	    <br>
+	    <br>
+	    
+	    {% elsif item.paypal_link == "SOLD_OUT" %}
+	    <br>
+	    <br>
+	    
 	    {% else %}
 	    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	      <input type="hidden" name="cmd" value="_s-xclick">

@@ -1,7 +1,7 @@
 ---
 artist_name: "Crazy Doberman"
 title: "Free LSD"
-catalogue_no: RDLP03
+catalogue_no: RD003
 pic: "RDLP03.jpg"
 paypal_link: "MQ3FJXWPSAZTW"
 ---

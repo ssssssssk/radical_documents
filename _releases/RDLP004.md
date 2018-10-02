@@ -1,7 +1,7 @@
 ---
 artist_name: "Sigtryggur Berg Sigmarsson"
 title: "I Say to You"
-catalogue_no: RDLP04
+catalogue_no: RD004
 pic: "RDLP04.jpg"
 paypal_link: "4D6RYD8YNXTZ2"
 ---
