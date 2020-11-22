@@ -357,9 +357,8 @@ figure,
 table,
 p,
 ul,
-ol,
-form {
-  margin-bottom: 0; }
+ol {
+  margin-bottom: 2.5; }
 
 
 /* Utilities
