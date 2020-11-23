@@ -4,7 +4,7 @@ title: "Anemone"
 catalogue_no: "RD031"
 pic: "RDLP031.jpg"
 paypal_link: "E8RPQZCQ8FL3N"
-zipfile: ""
+zipfile: "RD0031.zip"
 published: true
 layout: press
 ---
